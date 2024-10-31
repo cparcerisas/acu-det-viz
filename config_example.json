@@ -1,0 +1,11 @@
+{
+	"deployment_name": "station_name_2024",
+	"DEPLOYMENT_ID": "0",
+	"FOLDER_PATH": "path_to_deployment",
+	"site_name": "station_name",
+	"lat": 51.6483333300,
+	"lon": 2.5361666670,
+	"instrument_depth": 10,
+	"mooring_type": "Bottom mooring",
+	"instrument": "instrument_id"
+}

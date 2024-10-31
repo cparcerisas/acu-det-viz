@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "acu-det-viz"
+version = "0.1.0"
+description = ""
+authors = ["Clea Parcerisas"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.9,<3.12"
+torch = "^2.2.1"
+torchaudio = "^2.2.1"
+transformers = "^4.38.2"
+matplotlib = "^3.8.3"
+renumics-spotlight = "^1.6.7"
+pyhydrophone = "^0.1.7"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
