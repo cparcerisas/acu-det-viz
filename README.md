@@ -1,4 +1,4 @@
-# Example scripts for soundlib 
+# Example scripts for visualizing Acoustic Detections using spotlight 
 
 ## Usage 
 You will need to create a folder (the db path) with the following subfolders:
